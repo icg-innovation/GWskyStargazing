@@ -1,0 +1,3 @@
+git+https://github.com/james-trayford/strauss.git@ambisonics
+jupyter
+pycbc
